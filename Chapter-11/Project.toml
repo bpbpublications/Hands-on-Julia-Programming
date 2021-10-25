@@ -1,4 +1,0 @@
-[deps]
-BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
-IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
-ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"

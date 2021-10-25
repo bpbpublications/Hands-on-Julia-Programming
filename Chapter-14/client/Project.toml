@@ -1,5 +1,0 @@
-[deps]
-Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
-HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
